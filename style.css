@@ -1,1 +1,45 @@
+.vierkant {
 
+    height: 100px;
+    width: 100px;
+    float: left;
+    margin: 10px; 
+    text-align: center;
+    line-height: 100px;
+
+}
+
+
+.rechthoek {
+
+    height: 100px;
+    width: 200px;
+    float: right;
+    margin:10px;
+    text-align : center;
+    line-height: 100px;
+
+}
+
+.rood {
+    background-color: red;
+}
+
+.blauw {
+    background-color: blue;
+
+}
+
+.geel {
+    background-color: yellow;
+
+}
+
+.groen {
+    background-color:green;
+}
+
+
+.scheiding {
+	clear: both;
+}
